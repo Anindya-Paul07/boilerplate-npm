@@ -3,6 +3,7 @@
 	"author": "Anindya Paul",
 	"description": "Trying fiddling around and learning all the mechanism. One app to build all app journey",
 	"keywords": ["Author", "Name", "Description", "freecodecamp","Learning","Rebuild"],
+	"license": "MIT", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
