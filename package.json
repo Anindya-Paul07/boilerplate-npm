@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Anindya Paul",
+	"description": "Trying fiddling around and learning all the mechanism. One app to build all app journey",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
